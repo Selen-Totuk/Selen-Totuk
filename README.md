@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Merhaba, ben Selen
 
-<!--
-**Selen-Totuk/Selen-Totuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.  
+Siber güvenlik, mobil uygulama geliştirme, yapay zeka ve kriptoloji gibi alanlarda kendimi geliştirmeye odaklanıyorum. Şu sıralar React Native, Python ve C# üzerine çalışıyorum. Aynı zamanda Japonca, İtalyanca ve İngilizce öğreniyorum.
 
-Here are some ideas to get you started:
+### 🚀 İlgi Alanlarım
+- Mobil uygulama geliştirme
+- Siber güvenlik ve pentest temelleri
+- Yapay zeka projeleri (özellikle güvenlik & simülasyon)
+- Kriptoloji ve CTF tarzı çözümler
+- Dil öğrenmek (Japonca – İtalyanca – İngilizce)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Kullandığım Teknolojiler
+- **Diller:** Python, C#, JavaScript  
+- **Mobil:** React Native  
+- **Araçlar:** Kali Linux, Git, VS Code  
+- **Alanlar:** Siber Güvenlik, Kriptoloji, Mobil App
+
+### 📊 GitHub İstatistikleri
+![Stats](https://github-readme-stats.vercel.app/api?username=Selen-Totuk&show_icons=true&theme=transparent)
+
+
+Her gün biraz daha gelişmeye ve yeni teknolojiler öğrenmeye devam ediyorum ✨  
