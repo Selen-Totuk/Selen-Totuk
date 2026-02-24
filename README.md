@@ -30,10 +30,10 @@ I am a 2nd-year Computer Engineering student passionate about the intersection o
 ---
 
 ### 📈 GitHub Ecosystem
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Selen-Totuk&show_icons=true&theme=tokyonight&count_private=true" alt="Selen's Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selen-Totuk&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
+</div>
 
 ---
 
