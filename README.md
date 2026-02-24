@@ -28,16 +28,14 @@ I am a 2nd-year Computer Engineering student passionate about the intersection o
 | **DevOps & Tools** | `Git`, `VS Code`, `Linux Bash` |
 
 ---
-
 ### 📈 GitHub Ecosystem
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Selen-Totuk&show_icons=true&theme=tokyonight&count_private=true" alt="Selen's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selen-Totuk&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</div>
 
+![Selen's Stats](https://github-readme-stats.vercel.app/api?username=Selen-Totuk&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selen-Totuk&layout=compact&theme=tokyonight)
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/SENIN_LINKIN) | [Medium](https://medium.com/@SENIN_KULLANICI_ADIN) | [Portfolio](https://SENIN_VARSA_SITEN)
+[LinkedIn([https://www.linkedin.com/in/selen-totuk/]) 
 
 *"Every commit is a step towards a more secure and intelligent world."* ✨
