@@ -1,23 +1,43 @@
-# 👋 Merhaba, ben Selen
+# 👋 Hello, I'm Selen Totuk
 
-Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.  
-Siber güvenlik, mobil uygulama geliştirme, yapay zeka ve kriptoloji gibi alanlarda kendimi geliştirmeye odaklanıyorum. Şu sıralar React Native, Python ve C# üzerine çalışıyorum. Aynı zamanda Japonca, İtalyanca ve İngilizce öğreniyorum.
+**Computer Engineering Student | Cybersecurity & AI Enthusiast | Polyglot in Training**
 
-### 🚀 İlgi Alanlarım
-- Mobil uygulama geliştirme
-- Siber güvenlik ve pentest temelleri
-- Yapay zeka projeleri (özellikle güvenlik & simülasyon)
-- Kriptoloji ve CTF tarzı çözümler
-- Dil öğrenmek (Japonca – İtalyanca – İngilizce)
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-English%20%7C%20Italian%20%7C%20Japanese-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-red?style=flat-square" />
+</p>
 
-### 💻 Kullandığım Teknolojiler
-- **Diller:** Python, C#, JavaScript  
-- **Mobil:** React Native  
-- **Araçlar:** Kali Linux, Git, VS Code  
-- **Alanlar:** Siber Güvenlik, Kriptoloji, Mobil App
+---
 
-### 📊 GitHub İstatistikleri
-![Stats](https://github-readme-stats.vercel.app/api?username=Selen-Totuk&show_icons=true&theme=transparent)
+### ⚡ About Me
+I am a 2nd-year Computer Engineering student passionate about the intersection of **Cybersecurity** and **Artificial Intelligence**. I enjoy building secure mobile applications and simulating complex systems to find anomalies.
 
+* 🔭 **Current Project:** [Streaming Anomaly Pipeline](https://github.com/Selen-Totuk/streaming-anomaly-pipeline) (Hybrid detection of non-human behavior).
+* 📱 **Tech Stack:** Specialized in **React Native** for mobile and **Python** for security/AI automation.
+* 🔐 **Core Interests:** Penetration Testing, Cryptology, and Secure App Architecture.
+* 🌍 **Language Journey:** Actively learning 🇯🇵 Japanese and 🇮🇹 Italian alongside 🇬🇧 English.
 
-Her gün biraz daha gelişmeye ve yeni teknolojiler öğrenmeye devam ediyorum ✨  
+---
+
+### 💻 Tech Stack & Tools
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `C#`, `JavaScript (ES6+)`, `SQL` |
+| **Mobile Dev** | `React Native`, `Expo` |
+| **Cybersecurity** | `Kali Linux`, `Nmap`, `Metasploit`, `Burp Suite` |
+| **DevOps & Tools** | `Git`, `VS Code`, `Linux Bash` |
+
+---
+
+### 📈 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Selen-Totuk&show_icons=true&theme=tokyonight&count_private=true" alt="Selen's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selen-Totuk&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+---
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/SENIN_LINKIN) | [Medium](https://medium.com/@SENIN_KULLANICI_ADIN) | [Portfolio](https://SENIN_VARSA_SITEN)
+
+*"Every commit is a step towards a more secure and intelligent world."* ✨
