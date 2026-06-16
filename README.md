@@ -15,7 +15,7 @@ I am a 2nd-year Computer Engineering student passionate about the intersection o
 * 🔭 **Current Project:** [Streaming Anomaly Pipeline](https://github.com/Selen-Totuk/streaming-anomaly-pipeline) (Hybrid detection of non-human behavior).
 * 📱 **Tech Stack:** Specialized in **React Native** for mobile and **Python** for security/AI automation.
 * 🔐 **Core Interests:** Penetration Testing, Cryptology, and Secure App Architecture.
-* 🌍 **Language Journey:** Actively learning 🇯🇵 Japanese and 🇮🇹 Italian alongside 🇬🇧 English.
+
 
 ---
 
